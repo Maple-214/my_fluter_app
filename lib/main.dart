@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:my_fluter_app/pages/HomePage.dart';
 
-void main() {
-  runApp(const MyApp());
-}
+void main() => runApp(const MyApp());
+
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
   @override
